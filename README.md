@@ -5,6 +5,8 @@ ERP systems (SAP Business One, NetSuite) · AI document processing · full-stack
 
 I build complete, dependable systems for real businesses — from the first look at the data to the service running in production.
 
+🌐 **Resume:** [weerasak-resume.weerasak-resume.workers.dev](https://weerasak-resume.weerasak-resume.workers.dev)
+
 ---
 
 ### 🛠️ How I work
