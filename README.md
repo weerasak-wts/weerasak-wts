@@ -1,28 +1,62 @@
-### Hi, I'm Weerasak 👋
+<h2>Hi, I'm Weerasak Woottisan 👋</h2>
 
-**Software engineer.** I take systems from the real problem all the way to running in production — and own them there.
+**Software Engineer · Bangkok, Thailand**<br>
+ERP systems (SAP Business One, NetSuite) · AI document processing · full-stack web and cloud services
 
-**How I work**
+I build complete, dependable systems for real businesses — from the first look at the data to the service running in production.
 
-Discipline over guessing, on every task:
+---
 
-- understand the actual problem and look at the real data before writing anything
-- design the system and think through edge cases, scale and failure modes first
-- write tests and checks, and make them pass
-- verify on the running system — logs, database, the real output — not just "it compiles"
-- treat production as sacred: changes are careful, reversible and don't break what already works
+### 🛠️ How I work
 
-I use AI coding tools heavily to move faster, the way an engineer uses any good tool — but the engineering judgment, the design and the responsibility are mine.
+- **Evidence first** — read the real data, logs and running system before deciding anything
+- **Design before code** — think through edge cases, scale and failure modes up front
+- **Tested and verified** — a task is done when it works on the live system, not when it compiles
+- **Production is sacred** — careful, reversible changes that never break what already works
+- **AI as a power tool** — I use AI coding tools every day to move faster; the design, judgment and responsibility stay mine
 
-**What I build**
+---
 
-- **AI document pipelines** — classify and extract data from invoices, shipping documents, ID and business cards (LLM + OCR), then feed the systems downstream
-- **ERP integration** — SAP Business One (HANA, add-ons in C#) and NetSuite (SuiteScript)
-- **Web apps and APIs** for internal teams
-- **Developer tooling** — including automation around AI coding workflows
+### 💼 Experience
 
-**Tools I work with**
+**Software Engineer** — Sala Daeng Co., Ltd. · *Nov 2025 – Present*
+- Build and maintain SAP Business One add-ons for clients in Thailand and Laos (SQL Server and SAP HANA)
+- Customize NetSuite ERP to automate purchasing, budgeting, approval and document generation
+- Develop full-stack web apps and cloud services, from AI document processing to bridges between modern apps and legacy accounting systems
 
-`TypeScript` `JavaScript` `C#` `Python` `SQL` · `React` `Next.js` `Node.js` `Hono` · `PostgreSQL` `SAP HANA` `Neo4j` · `Docker` `Cloudflare` `GCP` · `SAP Business One` `NetSuite`
+**Intern** — National Cyber Security Agency (NCSA), Thailand · *2023*
+- Front-end of the NCSA public website, Power BI dashboards, office IT support
 
-Most of my work lives in private repositories, so the activity graph shows private contributions.
+---
+
+### 🚀 Key projects
+
+| Project | Role | Built with |
+| --- | --- | --- |
+| **Intelligent Document Processing pipeline** — multi-tenant, API-first platform that turns Thai business documents into structured JSON, with usage-based billing | Lead developer | TypeScript, Express, PostgreSQL, Cloud Run, Vertex AI / Gemini |
+| **AI accounting automation platform** — automates bookkeeping for Thai SMBs end to end, from reading documents to the accounting workflow | Lead developer | Next.js, React, REST API |
+| **AI document reconciliation system** — reads invoices and packing lists, reconciles them and exports clean data for logistics and accounting | Lead developer | Next.js, Python (FastAPI), PostgreSQL, GCP |
+| **Encrypted cloud backup & recovery** — per-customer encryption, point-in-time recovery and verified restores for on-premise accounting data | Sole author | Node.js, Cloud Storage, Windows service |
+| **Legacy-to-cloud accounting bridge** — secure two-way access between FoxPro accounting databases and the cloud | Sole author | Node.js, Windows agent |
+| **AI / LINE business platform** — tax invoices through LINE chat, AI receipt reading, credit/subscription system | Core developer | — |
+
+---
+
+### 🎓 Education
+
+**B.Eng. Computer Engineering** — Khon Kaen University · *2020 – 2024*<br>
+Capstone: AI models that grade glaucoma severity from eye-scan images (transfer learning), with a React web app for clinicians.
+
+---
+
+### 🧰 Skills
+
+- **Languages:** C# · TypeScript · JavaScript · Python · SQL / T-SQL · Java · VB.NET
+- **ERP:** SAP Business One SDK (DI API, UI API) · SAP HANA · NetSuite (SuiteScript 2.1)
+- **Frameworks:** .NET · Node.js · Express · React · Next.js · Vue / Nuxt · TensorFlow · scikit-learn
+- **Cloud & data:** GCP (Cloud Run, Functions, Vertex AI, Vision, BigQuery) · Firebase · Supabase · PostgreSQL · SQL Server
+- **Practices:** Docker · REST APIs · multi-tenant SaaS · OCR & AI document processing · Git
+
+---
+
+<sub>Most of my work is in private repositories, so the activity graph shows private contributions. 📫 weerasak.wts@gmail.com</sub>
