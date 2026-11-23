@@ -24,14 +24,18 @@ That is why the stack list below is wide: I ship working systems across these to
 
 `TypeScript` `JavaScript` `C#` `Python` `SQL` · `React` `Next.js` `Node.js` `Hono` · `PostgreSQL` `SAP HANA` `Neo4j` · `Docker` `Cloudflare` `GCP` · `SAP Business One` `NetSuite` · `Claude Code` `Claude` `Gemini`
 
-**Selected projects**
+**Open-source projects** (public — have a look)
 
 | Project | What it is |
 | --- | --- |
 | [video-skill](https://github.com/weerasak-wts/video-skill) | Narrated, animated explainer clips generated from any codebase |
 | [claude-skill-v1](https://github.com/weerasak-wts/claude-skill-v1) | The working rules and skills I give Claude Code so it works like a careful senior engineer |
-| claude-office *(private)* | Local "office" for every Claude Code session on a machine: desks, rooms, cross-session messaging |
-| sales-assistant *(private)* | AI sales assistant: business-card OCR, voice agent, knowledge base, company graph |
-| sap-exchangerate-*-hana *(private)* | SAP Business One add-ons that sync daily exchange rates |
 
-Most of my day-to-day work lives in private repositories, so the activity graph shows private contributions.
+**Also working on** (private)
+
+- a document-classification pipeline — reads and sorts business documents (LLM + OCR), extracts the fields, and feeds the systems downstream
+- an AI sales assistant — business-card OCR, a voice agent, a knowledge base and a company relationship graph
+- SAP Business One add-ons that sync daily exchange rates
+- a local control panel for running many AI coding sessions together
+
+Most of my day-to-day work is in private repositories, so the activity graph shows private contributions.
