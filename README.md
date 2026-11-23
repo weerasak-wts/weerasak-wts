@@ -20,7 +20,7 @@ Software engineer who builds the systems between business documents, ERPs and AI
 | [video-skill](https://github.com/weerasak-wts/video-skill) | Narrated, animated explainer clips generated from any codebase |
 | [claude-skill-v1](https://github.com/weerasak-wts/claude-skill-v1) | Engineering identity and skills that make Claude Code work like a senior engineer |
 | claude-office *(private)* | Local "office" for every Claude Code session on a machine: desks, rooms, cross-session messaging |
-| sld-sales-assistant *(private)* | AI sales assistant: business-card OCR, voice agent, knowledge base, company graph |
+| sales-assistant *(private)* | AI sales assistant: business-card OCR, voice agent, knowledge base, company graph |
 | sap-exchangerate-*-hana *(private)* | SAP Business One add-ons that sync daily exchange rates |
 
 Most of my day-to-day work lives in private repositories, so the activity graph shows private contributions.
