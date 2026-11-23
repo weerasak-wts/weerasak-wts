@@ -1,15 +1,15 @@
-<h2>Hi, I'm Weerasak Woottisan 👋</h2>
+<h2>Hi, I'm Weerasak Woottisan</h2>
 
 **Software Engineer · Bangkok, Thailand**<br>
 ERP systems (SAP Business One, NetSuite) · AI document processing · full-stack web and cloud services
 
-I build complete, dependable systems for real businesses — from the first look at the data to the service running in production.
+Software Engineer with a genuine interest in software development and artificial intelligence. Experienced in working across enterprise ERP systems and full-stack web applications. Eager to continuously learn new technologies and tackle unfamiliar challenges, with the goal of growing into an engineer capable of designing and building complete, dependable systems. A collaborative team player who is committed to delivering high-quality software solutions that create real value for businesses.
 
-🌐 **Resume:** [resume.weerasak-wts.workers.dev](https://resume.weerasak-wts.workers.dev)
+**Resume:** [resume.weerasak-wts.workers.dev](https://resume.weerasak-wts.workers.dev)
 
 ---
 
-### 🛠️ How I work
+### How I work
 
 - **Evidence first** — read the real data, logs and running system before deciding anything
 - **Design before code** — think through edge cases, scale and failure modes up front
@@ -19,7 +19,7 @@ I build complete, dependable systems for real businesses — from the first look
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Software Engineer** — Sala Daeng Co., Ltd. · *Nov 2025 – Present*
 - Build and maintain SAP Business One add-ons for clients in Thailand and Laos (SQL Server and SAP HANA)
@@ -31,7 +31,7 @@ I build complete, dependable systems for real businesses — from the first look
 
 ---
 
-### 🚀 Key projects
+### Key projects
 
 | Project | Role | Built with |
 | --- | --- | --- |
@@ -44,14 +44,14 @@ I build complete, dependable systems for real businesses — from the first look
 
 ---
 
-### 🎓 Education
+### Education
 
 **B.Eng. Computer Engineering** — Khon Kaen University · *2020 – 2024*<br>
 Capstone: AI models that grade glaucoma severity from eye-scan images (transfer learning), with a React web app for clinicians.
 
 ---
 
-### 🧰 Skills
+### Skills
 
 - **Languages:** C# · TypeScript · JavaScript · Python · SQL / T-SQL · Java · VB.NET
 - **ERP:** SAP Business One SDK (DI API, UI API) · SAP HANA · NetSuite (SuiteScript 2.1)
@@ -61,4 +61,4 @@ Capstone: AI models that grade glaucoma severity from eye-scan images (transfer 
 
 ---
 
-<sub>Most of my work is in private repositories, so the activity graph shows private contributions. 📫 weerasak.wts@gmail.com</sub>
+<sub>Most of my work is in private repositories, so the activity graph shows private contributions. weerasak.wts@gmail.com</sub>
